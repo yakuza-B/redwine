@@ -1,0 +1,8 @@
+{
+    "columns": {
+        "id": "integer",
+        "name": "string",
+        "year": "integer",
+        "price": "float"
+    }
+}
